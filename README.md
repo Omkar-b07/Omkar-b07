@@ -4,7 +4,7 @@
 ---
 
 ## 🔥 About Me
-- 🎓 **B.E in Electronics & Computer Engineering**, Zeal College of Engineering (CGPA: 8.0)
+- 🎓 **B.E in Electronics & Computer Engineering**, Zeal College of Engineering (CGPA: 8.14)
 - 💻 Passionate about **Web Development & AI**
 - 🚀 Currently learning **MERN Stack**, AI, System Design
 - 🤖 AI Intern at **Infosys Springboard**
