@@ -13,7 +13,7 @@ Currently, I'm focusing on **MERN Stack, Python, AWS, Data Structures & Algorith
 
 * 🎓 B.E. in **Electronics & Computer Engineering** — CGPA: **8.14**
 * 💻 Interested in **Full-Stack Development, AI & Cloud Computing**
-* 🤖 AI Intern at **Infosys Springboard**
+* 🤖 Former AI Intern at **Infosys Springboard**
 * 📊 Former **Data Analyst Intern at KasNet Technologies**
 * 🧠 Practicing **Data Structures & Algorithms**
 * ☁️ Currently learning **AWS & Cloud Computing**
