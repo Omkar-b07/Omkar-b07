@@ -11,7 +11,7 @@
 <p>
   <a href="https://github.com/Omkar-b07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/omkarbondge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/YOUR_omkar_bondge/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <img src="https://komarev.com/ghpvc/?username=Omkar-b07&style=for-the-badge&color=38BDF8" alt="Profile Views" />
 </p>
 
@@ -114,12 +114,12 @@ An AI-powered chatbot providing wellness information through a conversational in
 
 ### Consistency over perfection. One problem at a time.
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Statistics" width="500" />
+<a href="https://leetcode.com/omkar_bondge/">
+  <img src="https://leetcard.jacoblin.cool/omkar_bondge?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Statistics" width="500" />
 </a>
 
 <p>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/omkar_bondge/">
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </p>
