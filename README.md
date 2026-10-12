@@ -1,6 +1,6 @@
  <div align="center">
 
-# 👋 Hey, I'm Omkar Bondge
+# Hey, I'm Omkar Bondge
 
 ### Full-Stack Developer · AI Enthusiast · Cloud Learner
 
