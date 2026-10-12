@@ -1,190 +1,212 @@
-# 👋 Hi, I'm Omkar Bondge
+ <div align="center">
 
-🎓 **B.E. Electronics & Computer Engineering** | Zeal College of Engineering and Research
-💻 **Full-Stack Developer | AI Enthusiast**
+# 👋 Hey, I'm Omkar Bondge
 
-I'm an Electronics & Computer Engineering student passionate about **full-stack development, AI, and cloud technologies**. I enjoy building practical software solutions and continuously improving my problem-solving and development skills.
+### Full-Stack Developer · AI Enthusiast · Cloud Learner
 
-Currently, I'm focusing on **MERN Stack, Python, AWS, Data Structures & Algorithms, AI/ML, and System Design**.
+<a href="https://github.com/Omkar-b07">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Real-World+Projects;Exploring+AI+%26+Cloud+Technologies;Solving+DSA+Problems+Every+Day;Turning+Ideas+Into+Code" alt="Typing SVG" />
+</a>
 
----
+<p>
+  <a href="https://github.com/Omkar-b07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/omkarbondge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Omkar-b07&style=for-the-badge&color=38BDF8" alt="Profile Views" />
+</p>
 
-## 🚀 About Me
+📍 Pune, India &nbsp; • &nbsp; 🎓 B.E. Electronics & Computer Engineering, 2027
 
-* 🎓 B.E. in **Electronics & Computer Engineering** — CGPA: **8.14**
-* 💻 Interested in **Full-Stack Development, AI & Cloud Computing**
-* 🤖 Former AI Intern at **Infosys Springboard**
-* 📊 Former **Data Analyst Intern at KasNet Technologies**
-* 🧠 Practicing **Data Structures & Algorithms**
-* ☁️ Currently learning **AWS & Cloud Computing**
-* 🌱 Always learning and building real-world projects
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-`Python` `JavaScript` `Java` `C` `C++` `SQL`
-
-### 🌐 Frontend
-
-`React.js` `Vite` `HTML5` `CSS3` `Tailwind CSS`
-
-### ⚙️ Backend
-
-`Node.js` `Express.js` `Flask` `REST APIs`
-
-### 🗄️ Databases
-
-`MongoDB` `MySQL` `SQLite`
-
-### 🔧 Developer Tools
-
-`Git` `GitHub` `VS Code` `Postman` `IntelliJ IDEA`
-
-### 🤖 AI / Data
-
-`RASA` `NLP` `Power BI` `Power Query` `DAX`
+</div>
 
 ---
 
-# 📌 Featured Projects
+## `$ whoami`
 
-## 🏙️ PublicEye — Public Grievance Civic Issue Tracker
+I'm an Electronics & Computer Engineering student at **Zeal College of Engineering and Research, Pune**, passionate about building useful software, exploring AI, and understanding how scalable applications work.
 
-**React.js • Node.js • Express.js • MongoDB • REST APIs • JWT • React Leaflet • Recharts**
+- 🎓 **CGPA:** 8.14
+- 💻 **Development:** React, Node.js, Express.js, Python and REST APIs
+- ☁️ **Cloud:** Learning AWS and cloud-native technologies
+- 🤖 **AI:** NLP, RASA, Flask and conversational AI
+- 🧠 **Problem Solving:** Practicing Data Structures & Algorithms
+- 💼 **Experience:** AI Intern at Infosys Springboard and Data Analyst Intern at KasNet Technologies
 
-A full-stack civic issue reporting and tracking platform designed to help citizens report public problems and enable authorities to manage and monitor them efficiently.
+I enjoy combining software engineering, data, and AI to solve real-world problems.
 
-### ✨ Key Features
+## ⚡ Tech Stack
 
-* 🔐 JWT-based authentication
-* 👥 Role-based access control
-* 📍 Geolocation-based issue reporting
-* 🗺️ Interactive maps using React Leaflet
-* 📷 Image upload functionality
-* 📊 Analytical dashboards using Recharts
-* 🔌 RESTful backend APIs
-* 🗄️ MongoDB database with Mongoose
+<div align="center">
 
-### 💡 What I Built
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,mysql" alt="Programming Languages" />
 
-Designed and developed secure REST APIs, authentication and authorization, database architecture, issue management workflows, geolocation services, image uploads, and analytical dashboards.
+### Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,nodejs,express,flask" alt="Frontend and Backend" />
 
-**🔗 Live Demo | 📂 GitHub Repository**
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode,postman" alt="Databases and Developer Tools" />
 
----
+### Cloud & AI
+<img src="https://skillicons.dev/icons?i=aws,docker,python" alt="Cloud and AI Technologies" />
 
-## 🤖 WellBot — Multilingual Wellness Chatbot
+</div>
 
-**Python • Flask • RASA • SQLite • JavaScript • NLP**
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/RASA-5A17EE?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-AI-7C3AED?style=flat-square" />
+</p>
 
-An AI-powered multilingual wellness chatbot developed to provide wellness information based on **WHO and CDC guidelines**.
+## 🚀 Featured Projects
 
-### ✨ Key Features
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* 🤖 AI-powered conversational interface
-* 🌍 Multilingual support for **2 languages**
-* 🧠 NLP pipeline using RASA
-* ⚡ Flask REST API
-* 🗄️ SQLite-based data management
-* 📊 Session logging with **200+ conversations**
-* 🚀 Response time of **under 1.2 seconds**
+### 🏙️ PublicEye
 
-### 💡 My Contribution
+**Public Grievance & Civic Issue Tracker**
 
-Developed **60%+ of the backend codebase** as part of a 4-member team, contributing to the NLP pipeline, Flask REST APIs, and SQLite database architecture.
+A platform for reporting, locating, tracking, and analyzing civic issues.
 
-**📂 GitHub Repository**
+**Highlights**
+- 🔐 JWT authentication and role-based access
+- 📍 Geolocation-based issue reporting
+- 🗺️ Interactive maps and issue visualization
+- 📷 Image uploads and issue management
+- 📊 Analytics dashboards
 
----
+**Stack:** React · Node.js · Express · MongoDB · JWT · React Leaflet
 
-# 💼 Experience
+<a href="https://github.com/Omkar-b07/PublicEye-Public-Grievance-Civic-Issue-Tracker-System">↗ View Repository</a>
 
-### 🤖 AI Intern — Infosys Springboard
+</td>
+<td width="50%" valign="top">
 
-**Sept 2025 – Dec 2025**
+### 🤖 WellBot
 
-Worked as part of a 4-member team to develop **WellBot**, contributing primarily to the backend, NLP pipeline, Flask API architecture, and SQLite database.
+**Multilingual Wellness Chatbot**
 
-**Technologies:** Python, Flask, RASA, SQLite, JavaScript
+An AI-powered chatbot providing wellness information through a conversational interface.
 
----
+**Highlights**
+- 🌍 Multilingual support for two languages
+- 🧠 RASA NLP pipeline
+- ⚡ Flask REST APIs
+- 🗄️ SQLite data management
+- 📊 Session logging for 200+ conversations
 
-### 📊 Data Analyst Intern — KasNet Technologies Pvt. Ltd.
+**Stack:** Python · Flask · RASA · SQLite · NLP
 
-**Jan 2026 – Feb 2026**
+**Contribution:** 60%+ of backend codebase in a four-member team.
 
-Worked on data analysis and visualization using **Power BI**, including data cleaning, transformation, data modeling, DAX measures, and analytical reporting.
+<a href="https://github.com/Omkar-b07">↗ Explore My Repositories</a>
 
-**Technologies:** Power BI, Power Query, DAX, Microsoft Excel
+</td>
+</tr>
+</table>
 
----
+## 🧩 LeetCode — Problem Solving
 
-# 🎓 Education
+<div align="center">
 
-**Zeal College of Engineering and Research, Pune**
+### Consistency over perfection. One problem at a time.
 
-**B.E. Electronics & Computer Engineering**
-2023 – 2027 | **CGPA: 8.14**
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Statistics" width="500" />
+</a>
 
----
-
-# 🏅 Certifications
-
-* Full Stack Web Development
-* Java & DSA
-
----
-
-# 🌱 Extracurricular
-
-### NSS Volunteer
-
-Organized and participated in **10+ community service events**, including:
-
-* 🩸 Blood donation camps
-* 🌳 Tree plantation drives
-* 📢 Awareness campaigns
-
-Helped mobilize **100+ student volunteers**.
-
----
-
-# 📚 Currently Learning
-
-```text
-☁️ AWS & Cloud Computing
-💻 Data Structures & Algorithms
-🌐 Full-Stack Development
-🤖 AI / Machine Learning
-🏗️ System Design
-```
-
----
-
-# 📊 GitHub
-
-I'm continuously working on improving my development skills and building projects that combine **software engineering, AI, and real-world problem solving**.
-
-⭐ **If you find my projects useful, consider giving my repositories a star!**
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Omkar-b07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/omkarbondge">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </p>
 
----
+</div>
 
-## ⚡ Fun Fact
+> **Note:** Replace `YOUR_LEETCODE_USERNAME` in both URLs with your actual LeetCode username. The card fetches your profile statistics dynamically when the service is available.
 
-> I enjoy turning real-world problems into practical software solutions and learning something new with every project.
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Omkar-b07">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Omkar-b07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Omkar-b07">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-b07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</a>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Omkar-b07&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="65%" />
+
+</div>
+
+## 💼 Experience
+
+<details>
+<summary><b>🤖 AI Intern — Infosys Springboard</b> · September–December 2025</summary>
+
+- Contributed to WellBot, a multilingual wellness chatbot.
+- Worked on backend development, NLP, REST APIs and database architecture.
+- Collaborated with a four-member development team.
+
+**Technologies:** Python, Flask, RASA, SQLite, JavaScript
+
+</details>
+
+<details>
+<summary><b>📊 Data Analyst Intern — KasNet Technologies Pvt. Ltd.</b> · January–February 2026</summary>
+
+- Worked on data cleaning, transformation and analysis.
+- Developed reports and visualizations using Power BI.
+- Practiced data modeling, DAX measures and Power Query.
+
+**Technologies:** Power BI, Power Query, DAX, Microsoft Excel
+
+</details>
+
+## 🎓 Education & Certifications
+
+**Zeal College of Engineering and Research, Pune**
+
+B.E. Electronics & Computer Engineering · 2023–2027
+
+**CGPA:** 8.14
+
+**Certifications**
+- Full Stack Web Development
+- Java & Data Structures and Algorithms
+
+## 🌱 Currently Exploring
+
+- ☁️ AWS, cloud architecture and deployment
+- 🧠 Data Structures & Algorithms
+- 🌐 Full-stack application development
+- 🤖 AI / Machine Learning
+- 🏗️ System Design and scalable backends
+
+## 🤝 Beyond Code
+
+**NSS Volunteer**
+
+Participated in and organized 10+ community service events, including blood donation camps, tree plantation drives and awareness campaigns, helping mobilize 100+ student volunteers.
+
+## 📬 Let's Connect
+
+I'm open to connecting with developers, collaborating on interesting projects, and exploring opportunities in software development, AI and cloud computing.
+
+<div align="center">
+
+<a href="https://github.com/Omkar-b07">GitHub</a> •
+<a href="https://www.linkedin.com/in/omkarbondge">LinkedIn</a> •
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">LeetCode</a>
+
+### 💡 Build. Learn. Solve. Repeat.
+
+*Turning ideas into practical solutions, one commit at a time.*
+
+</div>
