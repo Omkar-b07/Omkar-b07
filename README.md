@@ -21,7 +21,6 @@
 
 ---
 
-## `$ whoami`
 
 I'm an Electronics & Computer Engineering student at **Zeal College of Engineering and Research, Pune**, passionate about building useful software, exploring AI, and understanding how scalable applications work.
 
